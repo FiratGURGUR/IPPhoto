@@ -1,6 +1,8 @@
 # IPPhoto
 instagram kullanıcı adı ile kullanıcıya ait bazı bilgilerin getirilmesi
 
+Profil fotoğrafı indirme ve kaydetme ileride eklenecektir.
+
 
 
 ### Screenshots
